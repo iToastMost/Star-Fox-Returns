@@ -100,8 +100,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   deathFX: {fileID: 2498647853338769805, guid: fce6ea2c1b78731438b0b70eeb537b2d, type: 3}
   hitVFX: {fileID: 2498647853338769805, guid: 27e4bd794e7a0e64aa268eee0ffa59da, type: 3}
-  scorePerHit: 100
-  healthPoints: 1500
+  scorePerHit: 2500
+  healthPoints: 2000
 --- !u!65 &8405317681906650726
 BoxCollider:
   m_ObjectHideFlags: 0
